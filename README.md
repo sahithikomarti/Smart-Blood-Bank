@@ -1,1 +1,4 @@
-# Smart-Blood-Bank
+# Smart-Blood-Bank-
+Smart Blood Bank is online web-based project. Today we can easily connect with anything through internet services. So online platform is the best choice for our project. Smart Blood Bank is aims serving for human welfare. We have all the information, you will ever need. Many people are here for you, to help you, willing to donate blood for you anytime. We have done all the job, rest is yours. Search the blood group you need. You can help us by registering on Smart Blood Bank. If you are willing to donate your blood when needed. As a proud member of Smart Blood Bank and a responsible human being, you can help someone in need. So, donate blood in online.
+	Person who needs to donate blood may register on our website with the help of username and password. The persons who need blood donor, they can search and find blood donors by using our website. After searching, a list of donors will be displayed and user can get brief details about their contact details, email including their location. so, they can communicate.
+
